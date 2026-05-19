@@ -15,6 +15,7 @@ public class Test01 {
 		System.out.println("明日の天気を発表します！！");
 		System.out.println("北！！ほぼ晴れ！！！！");
 		System.out.println("南！！だいたい晴れ！！！！");
+		System.out.println(Calc.add(1, 2));
 	}
 
 }
