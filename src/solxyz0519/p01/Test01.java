@@ -8,6 +8,8 @@ public class Test01 {
 		System.out.println("Hello tamachi!");
 		System.out.println("Hello mita");
 		System.out.println("Hello daimon");
+		
+		System.out.println(Calc.add(1, 2));
 	}
 
 }
