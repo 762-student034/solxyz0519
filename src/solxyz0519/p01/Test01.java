@@ -8,6 +8,10 @@ public class Test01 {
 		System.out.println("Hello tamachi!");
 		System.out.println("Hello mita");
 		System.out.println("Hello daimon");
+
+		System.out.println("明日の天気を発表します！！");
+		System.out.println("北！！ほぼ晴れ！！！！");
+		System.out.println("南！！だいたい晴れ！！！！");
 	}
 
 }
